@@ -18,4 +18,4 @@ function manyCircle(){
 
 }
 
-document.querySelector('.container').addEventListener('mouseover',createCircle)
+addEventListener('mouseover',createCircle)
